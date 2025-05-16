@@ -17,4 +17,4 @@ public class Condicional {
             System.out.println("Deve pagar a locação.");
         }
     }
-}.
+}

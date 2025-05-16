@@ -8,5 +8,4 @@ public class conversor {
 
         System.out.println( "30 Graus Célsius são: " + fahrenheit + " graus Fahrenheit");
     }
-}.
-
+}
