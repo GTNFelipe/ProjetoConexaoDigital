@@ -36,4 +36,4 @@ double precoComDesconto = percentualDesconto / 100 * precoOriginal;
 System.out.println("O preço original é: R$"+ precoOriginal);
         .System.out.println("Novo preço com desconto fica R$"+precoComDesconto);
     }
-} // comit??
+}
