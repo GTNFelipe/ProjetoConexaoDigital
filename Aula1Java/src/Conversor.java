@@ -1,4 +1,4 @@
-public class conversor {
+public class Conversor {
     public static void conversor(String[] args) {
         System.out.println("Olá, esse é o conversor dde Celsius para Fahrenheit.");
 
