@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class Desafio3 {
     public static void main(String[] args) {
         Scanner leitura = new Scanner(System.in);
-        int escolha = 0;
+
         int ladoQuadrado = 0;
         double raioCirculo = 0;
         double pi = 3.14;
 
         System.out.println("Digite 1 para calcular a área de um quadrado");
         System.out.println("Digite 2 para calcular a área de um círuculo");
-        escolha = leitura.nextInt();
+        int escolha = leitura.nextInt();
 
         if (escolha == 1) {
             System.out.println("Digite o lado ou altura do quadrado.");
